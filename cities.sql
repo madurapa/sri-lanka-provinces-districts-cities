@@ -1859,7 +1859,21 @@ INSERT INTO `cities` (`id`, `district_id`, `name_en`, `name_si`, `name_ta`, `pos
 (1834, 24, 'Trincomalee', NULL, NULL, '31000', 8.5667, 81.2333),
 (1835, 24, 'Wanela', NULL, NULL, '31308', 8.3683, 81.0281),
 (1836, 25, 'Vavuniya', NULL, NULL, '43000', 8.758818, 80.493461);
-
+(1837, 1, 'Colombo 01'),
+(1838, 1, 'Colombo 02'),
+(1839, 1, 'Colombo 03'),
+(1840, 1, 'Colombo 04'),
+(1841, 1, 'Colombo 05'),
+(1842, 1, 'Colombo 06'),
+(1843, 1, 'Colombo 07'),
+(1844, 1, 'Colombo 08'),
+(1845, 1, 'Colombo 09'),
+(1846, 1, 'Colombo 10'),
+(1847, 1, 'Colombo 11'),
+(1848, 1, 'Colombo 12'),
+(1849, 1, 'Colombo 13'),
+(1850, 1, 'Colombo 14'),
+(1851, 1, 'Colombo 15'),
 --
 -- Constraints for dumped tables
 --
