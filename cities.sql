@@ -2176,7 +2176,7 @@ INSERT INTO `cities` (`id`, `district_id`, `name_en`, `name_si`, `name_ta`, `sub
 (2210, 15, 'Vellankulam', 'වෙල්ලන්කුලම්', 'வெள்ளாங்குளம்', NULL, NULL, NULL, NULL, '9.18608900', '80.12648090'),
 (2211, 15, 'Veppankulam', 'වෙප්පන්කුලම්', 'வேப்பங்குளம்', NULL, NULL, NULL, NULL, '8.78602730', '80.01436560'),
 (2212, 15, 'Vidataltivu', 'විඩතලතිව්', 'விடத்தல்தீவு', NULL, NULL, NULL, NULL, '9.02154990', '80.05086310');
-
+(2213,7,'Mabola','මාබෝල','மாபோலா',NULL,NULL,NULL,'11104',NULL,NULL);
 
 ALTER TABLE `cities`
   ADD PRIMARY KEY (`id`),
